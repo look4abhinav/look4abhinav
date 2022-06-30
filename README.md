@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @look4abhinav
 - 👀 I’m interested in Application Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m a Python Developer
 - 💞️ I’m looking to collaborate on intresting projects
 - 📫 Email: talk2abhinav@yahoo.com
 
