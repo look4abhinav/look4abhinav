@@ -1,4 +1,4 @@
-- 👋 Hello and welcome to my Github profile! 
+👋 Hello and welcome to my Github profile! 
 
 I am a Python developer with expertise in Data Science, Machine Learning, and Cloud Computing. With 4 years of experience in the field, I have a deep understanding of the tools and techniques needed to extract insights from complex datasets and build intelligent systems that can learn and adapt.
 
