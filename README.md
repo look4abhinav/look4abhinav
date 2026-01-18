@@ -42,14 +42,14 @@ My background is rooted in **Cloud Computing** and **Data Science**, but lately,
 ### 💼 Professional Highlights
 
 * **Industrial Automation & Predictive Analytics:**
-    * [cite_start]Managed the entire project lifecycle—planning, dev, testing, and deployment[cite: 13].
-    * [cite_start]Architected cloud infrastructure using **AWS** (Lambda, ECS) and eliminated unused resources to optimize costs[cite: 16].
-    * [cite_start]Developed predictive models using Decision Trees and Random Forests to identify customer churn[cite: 14].
+    * Managed the entire project lifecycle—planning, dev, testing, and deployment.
+    * Architected cloud infrastructure using **AWS** (Lambda, ECS) and eliminated unused resources to optimize costs.
+    * Developed predictive models using Decision Trees and Random Forests to identify customer churn.
 
 * **Global Asset Management Systems:**
-    * [cite_start]**Automation Win:** Created Python scripts to automate application deployment, reducing deployment time by **80%**[cite: 22].
-    * [cite_start]Deployed microservices architectures using **Docker** and Python on virtual machines[cite: 21].
-    * [cite_start]Facilitated smooth transitions from development to production environments[cite: 23].
+    * **Automation Win:** Created Python scripts to automate application deployment, reducing deployment time by **80%**.
+    * Deployed microservices architectures using **Docker** and Python on virtual machines.
+    * Facilitated smooth transitions from development to production environments.
 
 ---
 
@@ -57,11 +57,11 @@ My background is rooted in **Cloud Computing** and **Data Science**, but lately,
 
 #### 🚗 [DataAlchemy](https://github.com/look4abhinav/DataAlchemy)
 * **Tech:** Python, LLM.
-* [cite_start]**Scope:** Process files using LLMs to generate and extract meaningful features.
+* **Scope:** Process files using LLMs to generate and extract meaningful features.
 
 #### 📂 [DeClutter - Intelligent File Organizer](https://github.com/look4abhinav/Declutter)
 * **Tech:** Python Automation.
-* [cite_start]**Scope:** An automation script that monitors directories and automatically categorizes files to keep the digital workspace clean[cite: 51].
+* **Scope:** An automation script that monitors directories and automatically categorizes files to keep the digital workspace clean.
 
 ---
 
